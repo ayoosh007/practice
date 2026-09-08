@@ -1,0 +1,369 @@
+crime_type,borough,date_reported,time_of_day,suspect_age,weapon_used,witness_count,evidence_count,officer_experience,response_time,case_status
+Theft,CENTRAL,2024-11-13, afternoon ,30,Blunt Object,2,2,22,10.3,Solved
+Burglary,North,08/09/2024, night ,51,NONE,2,3,8,17.8,SOLVED
+Vandalism,CENTRAL,"Dec 15, 2025",Morning,35,None,0,2,13,12.3,Solved
+ theft ,central,06-30-2025,morning,48,firearm,0,4,9,76.0,UNSOLVED
+Burglary,WEST,2025-05-15,MORNING,42,Knife,0,4,22,11.5,Solved
+Fraud, north ,08/03/2024,EVENING,-4,None,0,5,11,23.7,Unsolved
+FRAUD,north,"May 24, 2024",AFTERNOON,37,blunt object,1,4,22,13.8,UNSOLVED
+Theft,NORTH,08-02-2024,Evening,,blunt object,1,4,11,6.1,Unsolved
+ assault ,NORTH,,NIGHT,46, none ,3,2,10,14.6,Solved
+ vandalism ,north,31/10/2025,Morning,30,blunt object,4,5,15,11.8,Solved
+THEFT,north,"Aug 23, 2024",evening,23, knife ,5,2,9,12.7, solved 
+, west ,11-10-2025,NIGHT,48,Knife,1,4,14,12.1, unsolved 
+Theft,East,2024-10-24, night ,51,OTHER,2,1,4,20.5,SOLVED
+robbery,south,05/12/2024,NIGHT,39,None,1,1,1,,unsolved
+assault,East,"May 29, 2025",evening,14,Firearm,0,4,16,8.7,unsolved
+theft,SOUTH,05-14-2024,,24, blunt object ,1,5,10,14.8,unsolved
+fraud,North,2025-04-08, evening ,36,KNIFE,1,4,9,13.2,SOLVED
+Theft,North,13/01/2024, evening ,32,FIREARM,0,4,18,10.6,Unsolved
+ assault ,south,"Nov 14, 2025",EVENING,40,,2,0,17,13.1,Unsolved
+Fraud,WEST,01-02-2024, morning ,141,None,0,2,3,20.7,SOLVED
+ fraud ,East,2025-10-09,evening,37, firearm ,3,3,18,17.7,SOLVED
+Robbery,south,13/09/2025,morning,27,NONE,,1,13,11.8, solved 
+THEFT,west,"Nov 17, 2024",Afternoon,40, firearm ,2,3,13,6.8,unsolved
+Theft,North,10-16-2024,Morning,34, knife ,3,3,11,8.9,Solved
+VANDALISM,SOUTH,2024-10-25,morning,27,None,0,2,1,12.2,Solved
+Robbery,,25/06/2025,MORNING,40, none ,3,2,2,9.3, unsolved 
+Theft,West,"Aug 07, 2025",AFTERNOON,28,other,1,4,16,21.9,Unsolved
+Assault,NORTH,12-26-2025,Morning,35, blunt object ,3,2,20,91.0,Solved
+Theft,central,2024-02-02,Night,29,NONE,2,3,15,16.0, solved 
+Vandalism, central ,14/10/2025,MORNING,40,None,1,0,18,13.8,Solved
+ robbery ,South,"Mar 02, 2025",afternoon,14,blunt object,3,3,4,7.2,Solved
+Theft,East,04-06-2024,AFTERNOON,28,none,2,,6,16.0,Solved
+ robbery ,East,2025-07-05,afternoon,21,NONE,5,2,5,10.7,Solved
+Assault,South,03/03/2024,Afternoon,49, none ,2,2,12,14.2,UNSOLVED
+ASSAULT,South,"Dec 12, 2025",night,37,None,1,4,22,9.0,SOLVED
+Assault,SOUTH,05-05-2025, night ,37,none,4,4,21,16.8, solved 
+ robbery ,central,2025-04-05, morning ,20, knife ,2,1,12,13.6,Solved
+ vandalism ,CENTRAL,07/02/2024,evening,,Firearm,1,2,11,17.5,UNSOLVED
+ theft ,South,"Jun 19, 2024",AFTERNOON,45, none ,1,0,16,10.2, unsolved 
+ASSAULT,WEST,08-02-2024,night,14,none,5,5,19,23.3,SOLVED
+assault, east ,2024-04-14, evening ,41,Other,2,5,,15.7,SOLVED
+FRAUD,East,17/10/2024,NIGHT,19,None,2,0,11,7.9,Unsolved
+Robbery,north,"Nov 03, 2025", night ,32,Knife,1,5,15,13.7,SOLVED
+ fraud , north ,10-15-2025, evening ,35,None,0,4,13,23.1, unsolved 
+THEFT,Central,,Morning,24,firearm,2,1,22,17.0, unsolved 
+THEFT,East,04/01/2024, morning ,40,NONE,1,2,9,12.4,unsolved
+Burglary, central ,"May 26, 2025",Morning,35,none,1,3,16,8.0, solved 
+ assault ,CENTRAL,09-15-2025,Night,48,Firearm,0,1,9,21.1,Unsolved
+Theft,South,2025-10-07,evening,39,NONE,3,3,14,,Solved
+Vandalism,south,04/03/2024,NIGHT,40,Blunt Object,1,5,17,12.2,Solved
+ROBBERY,South,"Jan 30, 2024",Night,64, blunt object ,2,7,21,11.3, solved 
+BURGLARY,SOUTH,10-24-2025,Evening,47,,4,4,9,31.4,Solved
+Theft,CENTRAL,2024-03-28,Morning,47,NONE,2,1,9,9.2,Unsolved
+THEFT, west ,04/12/2025,MORNING,55,none,0,8,13,11.8, solved 
+BURGLARY,SOUTH,"Jun 17, 2024",night,65, none ,2,7,11,13.8,SOLVED
+VANDALISM,central,09-18-2024,Night,34,Knife,1,0,14,118.0, solved 
+BURGLARY,WEST,2024-06-09,night,54,NONE,1,6,5,12.1,SOLVED
+Theft,South,26/11/2025,Night,53, none ,2,5,12,23.4,UNSOLVED
+BURGLARY,west,"Oct 31, 2024",NIGHT,42,NONE,0,2,12,26.6,unsolved
+Vandalism,West,12-26-2024,,24,Knife,0,3,14,16.1,Solved
+Burglary,south,2024-02-28,evening,54, firearm ,6,1,29,9.6,Solved
+Assault,South,04/06/2025,EVENING,50, blunt object ,0,1,13,11.3,unsolved
+,north,"Oct 01, 2025",AFTERNOON,14,KNIFE,2,1,6,19.5,UNSOLVED
+Fraud,SOUTH,04-18-2025,Morning,14,Blunt Object,1,2,10,13.2, unsolved 
+ robbery ,East,2025-07-12,Night,50,Firearm,0,2,24,11.8, solved 
+FRAUD,SOUTH,24/12/2024,Night,28, firearm ,4,3,13,12.3,SOLVED
+Vandalism,SOUTH,"Dec 24, 2025",evening,,Firearm,1,4,14,8.9,Solved
+ theft , north ,05-19-2024,Night,42,NONE,0,3,9,12.3,SOLVED
+robbery,NORTH,2024-04-01,evening,28,knife,1,4,9,12.8,Unsolved
+assault, south ,03/04/2024,Morning,44,Blunt Object,1,2,1,11.4, solved 
+Fraud,SOUTH,"Jun 28, 2024", night ,40,blunt object,2,6,5,14.4,Solved
+Vandalism,EAST,11-03-2024,afternoon,50,NONE,,3,8,11.4,Solved
+Vandalism,WEST,2025-06-11,night,27,KNIFE,4,1,9,32.2,unsolved
+ assault , south ,14/08/2025,night,35,BLUNT OBJECT,2,3,16,13.7,Solved
+Robbery,Central,"Apr 12, 2024",afternoon,35,Other,2,3,16,11.5,Solved
+Theft,WEST,06-03-2024,MORNING,17,FIREARM,2,0,16,9.6,Unsolved
+ robbery ,south,2024-07-11, morning ,37,Blunt Object,1,3,5,17.3,Unsolved
+Robbery,east,01/11/2024,afternoon,42,Firearm,0,3,5,13.2,unsolved
+Fraud,East,"Jan 19, 2025", afternoon ,44,NONE,3,1,15,16.1,solved
+ASSAULT,,03-16-2024,Night,34,none,2,4,8,9.5, solved 
+Theft,west,2024-02-02,night,22,none,1,2,2,17.7,unsolved
+ASSAULT, north ,06/04/2024,MORNING,35,knife,2,8,13,9.5,solved
+Burglary,Central,"Sep 17, 2025",afternoon,20,OTHER,0,2,5,13.0,unsolved
+ burglary ,CENTRAL,10-21-2025,Night,54,none,2,,12,15.5, solved 
+THEFT,North,2025-09-20,NIGHT,14,,3,3,15,22.0,Solved
+Theft,East,26/09/2024,evening,23,Firearm,2,3,8,15.0,UNSOLVED
+fraud,Central,"Aug 11, 2025",Morning,18,Other,4,3,22,10.5,Solved
+ASSAULT,West,06-04-2024,Morning,45,Knife,1,2,18,5.1, solved 
+robbery,WEST,2024-07-25,NIGHT,-2,None,4,1,15,15.2, unsolved 
+Theft,south,16/03/2024,Morning,23,None,0,3,2,5.9, solved 
+ASSAULT,East,"Jan 15, 2025",evening,14,none,2,4,6,,solved
+theft, south ,09-02-2025, afternoon ,24, other ,2,1,17,11.9,solved
+ theft ,EAST,2025-01-08,EVENING,36,none,1,1,6,18.1,Unsolved
+fraud,south,,Evening,14,None,4,5,15,19.3,solved
+burglary,SOUTH,"Jun 06, 2024", evening ,36,Blunt Object,0,5,9,16.1,Solved
+FRAUD, east ,03-03-2025,Night,28,Blunt Object,1,3,2,22.2,Unsolved
+Theft,West,2025-05-03,Morning,23,Firearm,0,3,13,12.7,Unsolved
+Fraud,East,07/06/2024,EVENING,17,Firearm,4,6,,16.4,solved
+Robbery,NORTH,"Oct 27, 2024",morning,,NONE,0,1,11,13.5,unsolved
+ASSAULT,Central,02-08-2024,evening,17,other,3,6,8,9.2,SOLVED
+burglary, east ,2024-11-08,Night,52,Knife,2,1,10,16.1,UNSOLVED
+ fraud , north ,25/03/2025,NIGHT,19,blunt object,2,5,2,83.0,Unsolved
+ROBBERY, west ,"Nov 15, 2024",Morning,45,None,0,4,17,9.3, solved 
+fraud,WEST,07-21-2025,Afternoon,26,OTHER,2,4,9,7.5,SOLVED
+, west ,2025-06-14,afternoon,15, other ,2,1,9,11.0,Solved
+Burglary,West,20/11/2025,Afternoon,57, none ,1,3,12,11.5,Unsolved
+burglary,EAST,"Mar 14, 2025",Morning,37,NONE,1,1,10,13.8,UNSOLVED
+theft,CENTRAL,04-22-2024,EVENING,14,BLUNT OBJECT,0,3,8,23.2,Unsolved
+Vandalism, central ,2025-03-09,Morning,40,Other,4,3,5,20.1,SOLVED
+Assault,South,15/06/2025, afternoon ,16, blunt object ,,7,5,9.1, solved 
+Theft,central,"Nov 07, 2025",Morning,39,Firearm,2,3,18,12.3,SOLVED
+Assault, south ,08-29-2025,Evening,31,None,4,3,16,14.7,solved
+THEFT,Central,2024-11-02,,31,none,1,2,12,30.5, unsolved 
+ROBBERY,Central,24/11/2024,EVENING,31,Blunt Object,1,6,15,9.6, solved 
+theft, central ,"Mar 10, 2025",Morning,44,Blunt Object,1,5,12,9.7,Solved
+Fraud,north,07-05-2024,morning,38,Other,1,1,19,14.3,Solved
+Vandalism,east,2024-05-03,Night,29,none,0,0,14,17.4, solved 
+ theft ,South,23/08/2025,Morning,40,FIREARM,3,4,20,13.2,solved
+Vandalism, south ,"Jul 22, 2024",Evening,41,,4,3,15,8.0, solved 
+Burglary,Central,12-31-2024,NIGHT,46,NONE,0,4,21,11.3,Solved
+ fraud ,East,2025-09-21,morning,58, none ,1,4,13,16.2,unsolved
+Vandalism,Central,,Morning,15,Other,1,4,7,19.1,Solved
+Theft,NORTH,"Aug 09, 2024",morning,15,None,2,3,1,22.7,unsolved
+ fraud , east ,09-28-2024,NIGHT,37, blunt object ,1,6,20,21.9,SOLVED
+Vandalism,West,2024-08-20, evening ,29,blunt object,0,4,9,,Unsolved
+BURGLARY,east,02/09/2025,MORNING,32,Firearm,0,1,7,11.7,unsolved
+ vandalism ,west,"Sep 25, 2024", evening ,51,None,4,3,6,11.8,Solved
+ vandalism ,,08-30-2024,EVENING,53,firearm,0,0,12,22.6,Unsolved
+Burglary,west,2025-03-04,Morning,50,None,2,2,9,12.2,Solved
+Fraud,NORTH,06/10/2025,Evening,,other,3,2,13,21.2,solved
+Burglary, north ,"Aug 28, 2025",Night,24,None,1,2,24,16.2,SOLVED
+robbery,west,12-18-2025,afternoon,47,knife,2,4,16,12.4,UNSOLVED
+ assault , west ,2025-10-03, morning ,18,None,0,3,12,9.3,Solved
+, south ,08/11/2024,Afternoon,34,None,2,1,19,21.2,unsolved
+ burglary ,NORTH,"Dec 07, 2024", night ,43,FIREARM,3,2,7,10.2,SOLVED
+ theft ,Central,06-01-2024,evening,21,Firearm,0,2,11,20.1,Solved
+Robbery,South,2025-01-05,Evening,29,FIREARM,1,1,12,11.8,unsolved
+ theft ,EAST,04/07/2025, evening ,28,None,0,,15,10.0, solved 
+Theft, central ,"Feb 02, 2025",NIGHT,31,None,1,2,23,18.9,SOLVED
+ vandalism , north ,02-25-2024,MORNING,35,none,0,5,11,21.9,SOLVED
+VANDALISM, central ,2024-04-28,night,41,None,1,4,17,23.2,Solved
+Theft,South,04/07/2025,Morning,51,Blunt Object,1,3,7,6.7,Solved
+THEFT,SOUTH,"Mar 05, 2024", night ,35,NONE,2,3,1,12.3,Solved
+THEFT,west,06-09-2024,Night,30,BLUNT OBJECT,1,2,22,28.8,Unsolved
+ASSAULT,central,2024-05-17,Afternoon,28, other ,1,0,15,17.2,UNSOLVED
+Burglary,north,07/07/2024, morning ,38,,0,2,11,13.4,solved
+ burglary , north ,"Sep 06, 2024",Morning,37,None,2,2,12,10.0, unsolved 
+VANDALISM,EAST,04-11-2025,AFTERNOON,53,None,2,3,1,7.0,Solved
+fraud,North,2024-02-22,Night,35,Other,2,2,5,24.2,solved
+Fraud,South,31/08/2025,Afternoon,39,None,0,1,18,145.0,SOLVED
+Theft,east,"Sep 12, 2024",evening,28,Firearm,1,4,6,18.2,SOLVED
+THEFT,EAST,12-03-2024,afternoon,46,Firearm,1,4,15,11.3,unsolved
+ assault ,WEST,2025-02-24, afternoon ,29,Other,,4,7,8.5, solved 
+Fraud,central,04/11/2024,NIGHT,32,BLUNT OBJECT,1,7,9,13.4,SOLVED
+ theft ,East,"Sep 16, 2025",,46,other,0,1,15,11.5,solved
+ robbery ,west,12-06-2024,Evening,47,None,1,1,6,14.2,Unsolved
+Fraud, west ,2024-10-18, morning ,33,NONE,0,4,18,12.8, solved 
+ASSAULT,West,24/04/2024,Morning,61,NONE,0,3,6,5.9,solved
+Fraud,EAST,"Jun 07, 2025",MORNING,,Firearm,1,0,1,16.0, unsolved 
+ vandalism , east ,08-29-2025,Afternoon,62,OTHER,1,2,20,17.8,unsolved
+assault,West,2025-08-02, morning ,52,Knife,2,2,,9.8,Solved
+Fraud,South,15/10/2025, evening ,17,none,1,4,9,24.1,Solved
+robbery,East,"Jun 27, 2025",morning,19,BLUNT OBJECT,3,5,11,10.5,solved
+FRAUD,central,02-09-2024,EVENING,32,None,1,6,8,23.6, unsolved 
+theft,NORTH,2025-04-02, afternoon ,49,None,0,4,12,12.9, unsolved 
+FRAUD,central,21/12/2025, evening ,30,BLUNT OBJECT,0,4,20,21.1,unsolved
+Vandalism,NORTH,"May 06, 2024",morning,37, firearm ,0,1,8,13.2,UNSOLVED
+fraud,South,,Night,52,None,2,2,12,18.0,UNSOLVED
+THEFT, north ,2025-08-16,NIGHT,23,Other,1,0,9,20.5,UNSOLVED
+THEFT,East,07/02/2025, afternoon ,46, knife ,1,6,9,14.3,SOLVED
+Robbery,West,"Feb 08, 2025",MORNING,46,NONE,0,1,16,5.9,Unsolved
+burglary,East,06-06-2025,Evening,28,None,2,1,1,16.0,Solved
+Robbery, west ,2025-07-14,afternoon,28,OTHER,1,2,14,,Unsolved
+Vandalism,north,24/01/2024,Afternoon,35,none,5,5,21,12.4,Solved
+,South,"May 04, 2024",Afternoon,33,None,0,3,13,8.4,Solved
+ theft ,CENTRAL,06-22-2025,EVENING,50,None,0,5,22,17.7,Solved
+VANDALISM,EAST,2024-10-01,evening,25,OTHER,3,2,10,12.1,Solved
+THEFT, central ,30/10/2025, afternoon ,47,None,4,3,16,11.4,Solved
+Assault,South,"Sep 29, 2024",NIGHT,38,Other,2,5,16,8.8,Solved
+Theft,Central,07-20-2025,Night,76,,1,4,11,18.2,Unsolved
+Assault, west ,2025-10-22,night,40,none,0,1,5,18.2,unsolved
+Vandalism,,24/12/2024,Afternoon,20,Other,4,0,16,12.7,SOLVED
+Assault, south ,"Oct 27, 2024",Night,14,OTHER,3,0,18,11.4,UNSOLVED
+ robbery ,west,11-28-2024,Evening,27,Firearm,3,1,9,8.6,Unsolved
+Theft,East,2024-06-29,Night,21,Other,3,3,18,12.5, unsolved 
+Burglary,North,21/03/2025,Afternoon,27,None,1,2,19,16.5,solved
+Vandalism,SOUTH,"Nov 05, 2024",night,45,Blunt Object,0,,7,13.2,Unsolved
+Theft,north,07-21-2024,Morning,29,Blunt Object,1,2,15,9.3,unsolved
+Burglary,WEST,2024-09-11,MORNING,14,BLUNT OBJECT,3,2,10,12.6,Unsolved
+Assault,SOUTH,07/08/2025,evening,51, none ,1,1,9,17.8,Unsolved
+Fraud,CENTRAL,"Aug 02, 2025",Evening,41,None,0,4,12,18.6,SOLVED
+assault,east,01-27-2024, afternoon ,, knife ,3,1,14,8.8,SOLVED
+Vandalism,West,2025-01-28, evening ,44,none,2,5,16,9.6, solved 
+Robbery,Central,05/03/2024,Evening,53, knife ,2,3,16,15.5,unsolved
+ theft ,north,"Jan 16, 2025",Evening,14,NONE,4,4,16,11.4,Solved
+Assault, north ,05-05-2025,NIGHT,42,None,0,1,7,10.3,unsolved
+Burglary,WEST,2024-05-18,night,33, knife ,2,2,13,16.7,Solved
+ fraud ,North,10/06/2024,NIGHT,49, none ,1,3,16,19.3,Unsolved
+Theft, north ,"Jun 12, 2025",AFTERNOON,31,None,,2,17,8.6,Unsolved
+ theft ,East,03-13-2024,Morning,40, none ,3,3,1,13.1,solved
+Assault,SOUTH,2025-05-25,evening,20, none ,1,1,10,27.1,unsolved
+assault,West,30/08/2024, night ,126,BLUNT OBJECT,2,3,10,12.3,Unsolved
+THEFT,south,"Sep 24, 2024",Evening,35,knife,0,5,12,11.6,UNSOLVED
+BURGLARY,central,11-24-2025,,14,KNIFE,2,3,24,21.7, solved 
+assault,SOUTH,2025-02-16,Morning,49,None,1,2,19,12.3,Solved
+THEFT,North,28/02/2025,NIGHT,56, firearm ,1,7,10,,Solved
+ vandalism ,South,"Oct 09, 2024", afternoon ,31, none ,0,5,6,15.0,UNSOLVED
+Theft,north,03-19-2024,Night,27,Other,2,0,19,34.5,UNSOLVED
+assault,North,,MORNING,63,none,1,2,7,11.7,Unsolved
+ vandalism ,WEST,08/09/2025,afternoon,15,None,2,2,12,19.8,SOLVED
+Fraud,east,"Jul 13, 2025",NIGHT,35,Knife,1,5,16,22.1, solved 
+Fraud,South,07-18-2024, afternoon ,34,,6,5,11,22.5,Unsolved
+Theft,South,2024-06-14,afternoon,36,None,1,3,13,15.7,Solved
+THEFT,South,16/12/2025,Night,40,blunt object,0,3,3,21.8,UNSOLVED
+Robbery,West,"Mar 18, 2025",Evening,27, other ,3,3,1,14.6,UNSOLVED
+ROBBERY,East,08-08-2024,Evening,54,NONE,1,4,13,21.0,unsolved
+,East,2025-04-22,evening,35,NONE,2,1,23,5.5, solved 
+Vandalism,central,21/06/2024,morning,41,Firearm,1,7,11,7.3,solved
+Robbery,South,"Apr 09, 2025",night,33, none ,1,0,12,20.4,Unsolved
+VANDALISM,Central,05-04-2025,Morning,,none,1,2,13,12.3,solved
+Vandalism,south,2024-08-11,Night,39,Knife,2,2,3,32.1,UNSOLVED
+Robbery,WEST,04/03/2025,afternoon,45,none,1,2,,9.1,SOLVED
+ fraud ,East,"Oct 25, 2024",Morning,28,NONE,0,3,3,23.1,unsolved
+Theft,East,07-30-2024,Morning,24, knife ,0,2,11,19.0,Solved
+ fraud ,EAST,2025-03-19, night ,60, knife ,2,1,11,15.9,unsolved
+VANDALISM,SOUTH,27/03/2024,Morning,25,NONE,2,0,20,99.0, unsolved 
+Fraud,NORTH,"Apr 23, 2024",morning,35,none,0,3,6,13.8,solved
+Burglary,east,08-03-2024,Afternoon,41,FIREARM,0,4,3,5.6,Solved
+Vandalism,Central,2025-11-10,EVENING,46,Firearm,1,1,2,18.4,unsolved
+ theft ,South,20/05/2025,Afternoon,66,KNIFE,1,4,8,21.3,Unsolved
+ robbery ,east,"May 25, 2024",evening,57,OTHER,3,1,21,13.0,Unsolved
+Theft,Central,03-03-2024,MORNING,58,none,3,2,5,9.6,Solved
+Assault,east,2024-07-18,Morning,42,Knife,1,4,12,19.3, solved 
+ robbery ,,19/09/2024, afternoon ,24,NONE,0,1,11,11.9, unsolved 
+ theft ,north,"Jun 29, 2024",Night,58,None,1,2,1,12.5,Unsolved
+ASSAULT,west,10-14-2024, night ,38,Other,1,0,4,11.9,unsolved
+Burglary,south,2025-10-02,night,25,None,0,4,4,9.2,solved
+Vandalism,SOUTH,22/07/2025,afternoon,74,None,2,5,19,, solved 
+ theft ,NORTH,"Nov 16, 2024", night ,14,other,0,2,13,19.4,Unsolved
+Burglary,central,10-10-2024,Night,22, none ,0,,10,15.0,solved
+ burglary ,north,2024-12-23,afternoon,14,Knife,5,4,25,13.6,Solved
+Fraud,Central,27/11/2024,Evening,24,,1,4,22,23.5, unsolved 
+ assault , south ,"Nov 08, 2024",Afternoon,37,Other,1,0,1,6.5,unsolved
+ROBBERY,CENTRAL,09-23-2024,Morning,26,None,2,1,5,19.5,UNSOLVED
+ASSAULT,NORTH,2025-11-29,AFTERNOON,14,Knife,,2,1,17.6,Unsolved
+Assault,South,20/08/2025,Afternoon,45,Knife,1,2,13,11.5,Solved
+theft,west,,evening,41,None,5,2,14,28.5,Solved
+Burglary,WEST,04-01-2025,Afternoon,58,none,2,7,14,11.9, solved 
+Theft,East,2025-01-23,evening,25,Knife,1,1,12,18.8, unsolved 
+theft,East,26/09/2025,,14,Other,5,1,16,10.7,Solved
+Robbery, central ,"Sep 14, 2024",Afternoon,48,none,3,3,8,16.8, solved 
+ fraud ,Central,12-24-2025,Afternoon,33,NONE,1,5,6,10.0,Solved
+Vandalism,Central,2025-06-11,Evening,,None,0,3,13,12.3,Solved
+THEFT,South,03/02/2025, night ,38,None,0,1,15,15.3, solved 
+ theft ,East,"Jan 15, 2024", afternoon ,21,none,0,5,1,11.3, unsolved 
+Theft, east ,05-09-2025,morning,24,Firearm,1,3,20,15.8,Solved
+BURGLARY,East,2025-06-24, morning ,32,none,4,2,12,15.5, solved 
+,North,28/02/2024,AFTERNOON,41,Firearm,1,2,7,15.3,unsolved
+assault,South,"Jun 24, 2025",EVENING,32,other,1,0,15,11.2,UNSOLVED
+theft,EAST,10-19-2025,Evening,46,Other,0,4,18,16.4,Solved
+Vandalism,north,2024-08-16,Night,36,FIREARM,3,4,4,12.0,unsolved
+Theft,west,23/03/2025,Afternoon,36,firearm,0,3,15,21.7,Unsolved
+Vandalism,EAST,"Jul 05, 2024",evening,41,NONE,0,1,3,20.1,Unsolved
+burglary, south ,03-28-2025,Evening,14,BLUNT OBJECT,2,3,4,13.8, solved 
+ROBBERY,CENTRAL,2024-03-15,Morning,52,None,4,3,7,10.8,unsolved
+fraud,west,21/05/2025,EVENING,29,BLUNT OBJECT,4,2,8,15.3, solved 
+Theft,south,"Nov 21, 2025",Evening,17,None,0,4,11,18.0, solved 
+ASSAULT,Central,10-18-2024,Night,31,Firearm,1,1,7,,SOLVED
+theft,east,2024-10-10, night ,26,knife,1,1,10,23.1,Unsolved
+ASSAULT,East,25/03/2024,afternoon,36,Blunt Object,1,4,7,9.8,UNSOLVED
+Burglary,SOUTH,"Apr 28, 2024", afternoon ,43,NONE,1,1,4,19.7,unsolved
+Theft,north,02-19-2024,Morning,44,other,2,1,8,12.6,UNSOLVED
+Fraud, east ,2025-12-19,evening,37,firearm,0,4,10,17.4, unsolved 
+BURGLARY,CENTRAL,13/05/2025,Evening,39,NONE,1,2,5,18.2,Unsolved
+Theft,CENTRAL,"Apr 11, 2024",AFTERNOON,56,,1,5,12,9.6,solved
+Fraud,SOUTH,06-29-2025,AFTERNOON,14,none,1,2,1,13.0,Solved
+Assault, west ,2024-12-31, afternoon ,22, none ,2,3,2,13.6,SOLVED
+ theft ,NORTH,15/02/2025, evening ,17,none,6,2,11,16.7,Solved
+VANDALISM, central ,"Aug 03, 2025", afternoon ,, other ,2,3,14,26.8, unsolved 
+ theft ,North,06-16-2025,EVENING,33, firearm ,1,1,15,132.0,SOLVED
+fraud,NORTH,2025-08-26,Afternoon,38,Knife,1,3,15,9.6, unsolved 
+vandalism,North,26/03/2025, afternoon ,32,NONE,0,3,8,14.1,unsolved
+ROBBERY,WEST,"Feb 07, 2024",NIGHT,37,BLUNT OBJECT,1,8,20,14.9, solved 
+Assault,EAST,01-23-2025, night ,50, none ,1,0,,13.2,Unsolved
+ROBBERY,SOUTH,2024-04-30,evening,25, none ,0,1,25,13.6,UNSOLVED
+theft, north ,12/12/2024,Morning,50,knife,3,3,6,16.2,SOLVED
+Burglary,,"Nov 21, 2025",NIGHT,30,NONE,2,1,15,16.0,unsolved
+Assault,WEST,04-03-2024,Morning,49,none,2,1,18,12.0,solved
+BURGLARY,North,, morning ,53,None,1,4,16,11.3,Solved
+theft,WEST,07/12/2024,evening,55,FIREARM,0,1,14,27.2,UNSOLVED
+VANDALISM,central,"Jul 09, 2024",morning,43,None,3,3,11,15.8,Solved
+ assault ,WEST,07-24-2025,EVENING,14,NONE,,2,1,10.0,solved
+assault,west,2025-05-31,MORNING,26,Firearm,5,2,9,6.6,SOLVED
+burglary,South,31/01/2025,AFTERNOON,25,none,1,5,4,9.9, unsolved 
+ROBBERY, west ,"Sep 20, 2024", night ,29,BLUNT OBJECT,2,,9,14.0,Unsolved
+BURGLARY,Central,07-16-2025,Evening,39,None,1,3,13,16.5,UNSOLVED
+theft,west,2024-01-25,,15, other ,0,3,19,14.0,Unsolved
+ assault ,Central,10/02/2025,NIGHT,17,Blunt Object,1,5,17,10.2,solved
+ vandalism , central ,"Dec 17, 2024",Morning,27,KNIFE,1,1,9,16.3,UNSOLVED
+ fraud ,East,09-30-2024,Afternoon,35,firearm,2,3,15,, solved 
+Theft,SOUTH,2024-04-08,NIGHT,34, knife ,1,5,10,20.0, solved 
+,South,08/10/2025,Evening,33,NONE,0,6,18,15.7, solved 
+Theft,SOUTH,"Dec 01, 2025",MORNING,30, none ,3,1,11,12.5,Unsolved
+assault, west ,12-31-2024, night ,43,Blunt Object,1,2,1,14.8,solved
+robbery, west ,2025-06-13, morning ,14,Blunt Object,0,3,15,9.4,UNSOLVED
+BURGLARY,central,29/03/2024,MORNING,14, blunt object ,2,4,5,14.7,solved
+ROBBERY,SOUTH,"Jun 07, 2024",Morning,66,NONE,5,3,1,6.6,Solved
+burglary,EAST,11-20-2025,Evening,,None,0,1,15,11.9,unsolved
+ASSAULT,CENTRAL,2024-08-11,MORNING,24,none,2,7,1,6.3,SOLVED
+Burglary, east ,06/08/2024,evening,53,NONE,0,1,22,11.4,unsolved
+Vandalism,east,"Oct 12, 2024",morning,42,NONE,1,6,3,21.7,Solved
+assault,CENTRAL,12-28-2024, night ,57,None,4,3,9,13.8,solved
+burglary,Central,2025-09-15,morning,49,KNIFE,2,2,10,17.4,Unsolved
+BURGLARY,Central,05/04/2025,Night,33,,2,3,12,19.0,unsolved
+theft, north ,"Apr 04, 2024",Afternoon,49,None,0,1,23,13.0, solved 
+Theft, south ,03-21-2025,afternoon,35,None,0,3,12,10.0,SOLVED
+Robbery,Central,2024-06-17, evening ,46,None,2,4,1,10.4,Solved
+Burglary, south ,14/06/2024,NIGHT,26, knife ,3,0,16,43.6, unsolved 
+ROBBERY,east,"May 14, 2025",Night,28,none,3,5,12,12.1,SOLVED
+robbery,East,,Afternoon,14,Blunt Object,0,2,16,13.1,Unsolved
+Theft,West,2025-12-06,MORNING,37,Blunt Object,2,1,14,9.2,Unsolved
+Assault,West,16/05/2025,AFTERNOON,32,Blunt Object,0,2,19,11.9,Solved
+Robbery,South,"Feb 01, 2025",Afternoon,23, blunt object ,2,3,6,10.5,SOLVED
+Fraud,east,01-30-2025, morning ,41, blunt object ,1,6,12,,UNSOLVED
+ASSAULT,West,2024-02-23,night,29,None,3,5,7,9.2,SOLVED
+burglary,North,05/10/2025,Afternoon,14,Other,4,3,18,11.7, solved 
+burglary, south ,"Aug 14, 2025", morning ,42,blunt object,2,3,1,15.0,Unsolved
+THEFT,East,04-24-2024,Night,43,Knife,1,4,10,11.1,unsolved
+Fraud,West,2025-06-27,Night,45, firearm ,2,4,7,26.5,unsolved
+Assault,south,24/01/2024, afternoon ,,knife,1,5,9,14.2, solved 
+Robbery,central,"Jul 14, 2024",Morning,38,none,1,4,14,15.1,solved
+theft,West,09-22-2025, evening ,18,None,2,1,7,18.2, unsolved 
+assault,WEST,2024-10-29, night ,32,None,0,0,21,9.6, solved 
+Vandalism,NORTH,19/06/2024,morning,37,BLUNT OBJECT,0,2,8,12.9,SOLVED
+ theft ,west,"Sep 11, 2024",Afternoon,32,None,3,3,1,11.8, solved 
+Burglary, west ,02-03-2025,Night,22,KNIFE,,3,1,18.8,UNSOLVED
+Theft,North,2024-08-13, afternoon ,49,OTHER,1,1,15,8.4,SOLVED
+ vandalism ,,16/09/2024,Afternoon,42,None,4,0,1,14.5,Solved
+burglary,east,"Apr 30, 2025",Night,16,NONE,0,2,15,11.9,Unsolved
+BURGLARY,central,04-30-2024,,17,NONE,2,0,17,22.0,UNSOLVED
+Burglary, west ,2025-05-05, night ,37,FIREARM,5,4,11,20.9,solved
+Robbery,West,11/06/2024,AFTERNOON,68,NONE,0,3,17,13.8, solved 
+FRAUD, west ,"Jun 20, 2025",Afternoon,21,knife,1,,10,17.3, solved 
+theft,east,11-19-2025,Evening,37, none ,1,1,3,11.1, unsolved 
+,SOUTH,2024-10-28,Night,34,KNIFE,1,3,10,16.5,UNSOLVED
+theft,CENTRAL,20/10/2024,Afternoon,35,none,1,5,1,11.5, solved 
+Assault, central ,"Apr 25, 2024",Afternoon,19,NONE,4,3,,6.5,SOLVED
+THEFT,east,03-01-2024,morning,,Knife,2,2,15,8.8,UNSOLVED
+Theft,Central,2025-06-18,MORNING,14,,2,4,3,15.4,UNSOLVED
+Theft,north,20/03/2024,morning,47,NONE,0,4,13,,SOLVED
+ fraud ,west,"Jul 23, 2025", morning ,42,none,0,2,9,9.8,unsolved
+vandalism,South,,Evening,35,none,2,4,16,25.8,Unsolved
+Burglary,east,2025-07-15,evening,49,other,1,3,11,20.7,UNSOLVED
+THEFT, south ,20/12/2024, afternoon ,48, none ,3,1,12,20.7,Unsolved
+ assault ,central,"Mar 27, 2024",evening,14, knife ,1,2,14,18.0, solved 
+Assault,south,11-22-2025,afternoon,,NONE,2,1,19,14.0,solved
+THEFT,West,2025-09-10,Night,34, none ,2,1,9,17.9,SOLVED
+ assault ,SOUTH,04/02/2025, night ,38,None,2,4,6,,SOLVED
+ vandalism , south ,"Feb 01, 2024",Evening,35,KNIFE,5,3,17,21.3,solved
+Theft,East,11-16-2025, afternoon ,34,Other,1,7,5,8.3, solved 
+Burglary,WEST,2025-05-15,MORNING,42,Knife,0,4,22,11.5,Solved
+Assault,South,03/03/2024,Afternoon,49, none ,2,2,12,14.2,UNSOLVED
+Robbery,east,01/11/2024,afternoon,42,Firearm,0,3,5,13.2,unsolved
+ vandalism ,west,"Sep 25, 2024", evening ,51,None,4,3,6,11.8,Solved
+Burglary,WEST,2024-09-11,MORNING,14,BLUNT OBJECT,3,2,10,12.6,Unsolved
+Theft,Central,03-03-2024,MORNING,58,none,3,2,5,9.6,Solved
+BURGLARY,central,29/03/2024,MORNING,14, blunt object ,2,4,5,14.7,solved
+Burglary,east,2025-07-15,evening,49,other,1,3,11,20.7,UNSOLVED
